@@ -1,0 +1,1 @@
+ D:\\Tugas\ Akhir\\baru\ ni\\kesalahan\\hapus\\Project_DisApp\\realtime\\.dart_tool\\flutter_build\\d0191de8989499c077256059e061f51d\\native_assets.yaml: 

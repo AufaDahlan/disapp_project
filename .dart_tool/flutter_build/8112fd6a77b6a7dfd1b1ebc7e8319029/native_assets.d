@@ -1,0 +1,1 @@
+ D:\\Tugas\ Akhir\\realtime\\.dart_tool\\flutter_build\\8112fd6a77b6a7dfd1b1ebc7e8319029\\native_assets.yaml: 

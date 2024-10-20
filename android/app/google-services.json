@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "388086849720",
+    "firebase_url": "https://chatapp-de7e8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-de7e8",
+    "storage_bucket": "chatapp-de7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388086849720:android:2c65ca4b089705d362944d",
+        "android_client_info": {
+          "package_name": "com.example.belajar03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEn1ZTMW90hToSXaiyzcQse5juSHNuwRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388086849720:android:79a990cf7faed4f462944d",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEn1ZTMW90hToSXaiyzcQse5juSHNuwRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
